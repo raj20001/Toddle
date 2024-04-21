@@ -1,0 +1,152 @@
+Id,Name,Plan,Toddle Buddy,Cutomer journey stage,Strategic account,Contract signed statu,Payment status,Risk tag,Risk level,Days in risk,Onboarding lifecycle status,Days in Onboarding,Total Classes,Total Staff,Total Student,Total Units Created,Total LE,Total journal posts,Total Announcements,Percentage of students with parents, Adoption Score (assumed equal weights for all)
+1,School 1,360,Buddy 7,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,125,77,30,144,143,218,455,357,99,190.375
+2,School 2,360,Buddy 4,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,38,10,45,141,56,436,"2,413",492,100,461.625
+3,School 3,360,Buddy 10,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,31,70,143,783,70,"1,359","8,014","2,060",100,1574.875
+4,School 4,360,Buddy 7,Adoption,Yes,O/F signed,Received,Flagged,Not as risk,274,8. Exit survey ,102,95,98,134,230,"1,464",75,381,100,322.125
+5,School 5,360,Buddy 7,Adoption,Yes,O/F signed,Received,Flagged,Not as risk,120,8. Exit survey ,105,256,57,427,309,"1,323",342,875,100,461.125
+6,School 6,360,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,69,40,30,105,254,647,"2,154",149,0,422.375
+7,School 7,Pro,Buddy 3,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,3. Account creation,11,27,27,0,3,0,0,0,0,7.125
+8,School 8,360,Buddy 9,Adoption,No,O/F out for sign,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,92,23,60,262,30,66,"4,197",619,100,669.625
+9,School 9,360,Buddy 1,Adoption,Yes,O/F out for sign,Received,Not at risk,Not as risk,,8. Exit survey ,14,226,51,342,143,9,0,1,81,106.625
+10,School 10,360,Buddy 5,Adoption,No,O/F signed,Received,At Risk,High,9,8. Exit survey ,170,214,38,214,285,790,735,122,64,307.75
+11,School 11,360,Buddy 8,Adoption,No,O/F signed,Received,Flagged,Not as risk,,8. Exit survey ,74,6,5,0,21,41,24,0,0,12.125
+12,School 12,360,Buddy 3,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,16,50,38,118,191,329,7,251,97,135.125
+13,School 13,360,Buddy 2,Adoption,Yes,PO Received,Invoice Due-Payment Pending,Flagged,Not as risk,,8. Exit survey ,88,1,2,0,0,0,0,0,0,0.375
+14,School 14,360,Buddy 3,Adoption,No,O/F signed,Received,At Risk,Medium,20,8. Exit survey ,115,15,41,317,36,72,"8,244",265,100,1136.25
+15,School 15,360,Buddy 5,Onboarding,No,Awaiting PO,Payment Pending,Not at risk,Not as risk,,2. Kick off,100,0,0,0,0,0,0,0,0,0
+16,School 16,Pro,Buddy 9,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,131,8,10,0,25,4,0,0,0,5.875
+17,School 17,Pro,Buddy 10,Onboarding,No,O/F signed,Payment Pending,Not at risk,Not as risk,,4. Training,50,14,12,1,16,5,0,0,0,6
+18,School 18,360,Buddy 7,Adoption,No,O/F signed,Received,Flagged,Not as risk,,4. Training,243,153,84,348,302,124,"5,052","1,270",100,929.125
+19,School 19,360,Buddy 7,Adoption,No,No O/F,Received,Not at risk,Not as risk,,8. Exit survey ,0,84,56,57,105,381,536,400,100,214.875
+20,School 20,Pro,Buddy 10,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,4. Training,37,10,24,3,11,78,1,0,0,15.875
+21,School 21,360,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,4. Training,197,69,52,88,187,465,141,298,100,175
+22,School 22,360,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,113,9,50,143,42,484,"1,518",421,99,345.75
+23,School 23,360,Buddy 1,Onboarding,No,PO Received,Received,Not at risk,Not as risk,,1. Introduction,9,0,0,0,0,0,0,0,0,0
+24,School 24,360,Buddy 3,Adoption,Yes,Awaiting PO,Received,At Risk,Low,346,1. Introduction,1,17,27,222,33,18,11,0,0,41
+25,School 25,360,Buddy 5,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,35,59,420,70,137,"3,098",648,95,570.25
+26,School 26,Pro,Buddy 3,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,117,39,62,0,51,55,16,0,0,27.875
+27,School 27,360,Buddy 6,Adoption,Yes,O/F signed,Received,Flagged,Not as risk,200,8. Exit survey ,208,114,56,152,127,281,"3,082",0,99,488.875
+28,School 28,360,Buddy 5,Adoption,No,No O/F,Received,Not at risk,Not as risk,,8. Exit survey ,66,15,45,280,36,210,"4,054",348,96,635.5
+29,School 29,360,Buddy 4,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,195,5,24,22,41,34,"1,211",42,91,183.75
+30,School 30,Pro,Buddy 3,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,3. Account creation,11,13,19,3,14,29,0,0,0,9.75
+31,School 31,360,Buddy 4,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,,37,15,82,136,"1,023",232,63,96,210.5
+32,School 32,360,Buddy 4,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,77,19,13,22,93,466,340,27,64,130.5
+33,School 33,360,Buddy 2,Adoption,Yes,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,127,57,67,133,145,"1,138","1,234",93,98,370.625
+34,School 34,360,Buddy 7,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,19,23,66,433,87,805,563,"4,618",99,836.75
+35,School 35,360,Buddy 1,Adoption,No,O/F signed,Received,At Risk,Medium,6,4. Training,124,0,0,0,0,0,0,0,0,0
+36,School 36,360,Buddy 1,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,5,166,36,215,113,237,"6,684",127,100,959.75
+37,School 37,360,Buddy 7,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,309,24,88,388,22,174,410,58,98,157.75
+38,School 38,360,Buddy 7,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,309,64,185,"1,009",109,380,705,208,96,344.5
+39,School 39,360,Buddy 3,Onboarding,Yes,O/F out for sign,Received,At Risk,Low,60,6. Go-live readiness,631,19,40,350,28,56,0,1,1,61.875
+40,School 40,360,Buddy 7,Onboarding,Yes,O/F out for sign,Received,Flagged,Not as risk,18,4. Training,817,1,24,20,0,0,0,0,0,5.625
+41,School 41,Pro,Buddy 3,Onboarding,No,O/F out for sign,Payment Pending,Not at risk,Not as risk,,4. Training,37,18,9,0,0,0,0,0,0,3.375
+42,School 42,360,Buddy 2,Adoption,No,O/F out for sign,Billing Pending,At Risk,High,50,8. Exit survey ,161,17,45,105,81,161,147,9,99,83
+43,School 43,Pro,Buddy 5,Adoption,No,Awaiting PO,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,266,76,21,0,250,38,0,0,0,48.125
+44,School 44,Pro,Buddy 5,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,266,17,29,0,75,6,0,0,0,15.875
+45,School 45,360,Buddy 10,Onboarding,No,O/F signed,Received,Not at risk,Not as risk,,6. Go-live readiness,122,26,59,0,71,613,0,0,0,96.125
+46,School 46,360,Buddy 3,Adoption,Yes,Awaiting PO,Received,Flagged,Not as risk,,1. Introduction,108,166,70,796,261,892,2,0,0,273.375
+47,School 47,360,Buddy 6,Adoption,Yes,Awaiting PO,Received,At Risk,Medium,43,8. Exit survey ,134,9,16,158,45,48,383,0,76,91.875
+48,School 48,360,Buddy 5,Adoption,Yes,O/F signed,Received,Flagged,Not as risk,,4. Training,247,111,40,163,186,832,"2,456",137,98,502.875
+49,School 49,Pro,Buddy 5,Onboarding,No,PO Received,Payment Pending,Not at risk,Not as risk,,4. Training,44,18,23,0,71,187,1,0,0,37.5
+50,School 50,360,Buddy 2,Onboarding,No,O/F signed,Payment Pending,Not at risk,Not as risk,,2. Kick off,23,10,14,217,15,68,68,0,0,49
+51,School 51,360,Buddy 4,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,4. Training,37,9,23,206,32,34,224,3,99,78.75
+52,School 52,Pro,Buddy 3,Onboarding,No,Awaiting PO,Payment Pending,Not at risk,Not as risk,,4. Training,31,32,223,0,26,188,0,0,0,58.625
+53,School 53,Pro,Buddy 5,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,72,23,23,0,34,0,0,0,0,10
+54,School 54,360,Buddy 4,Adoption,No,O/F signed,Received,At Risk,Low,147,8. Exit survey ,124,53,33,84,142,144,341,30,85,114
+55,School 55,360,Buddy 6,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,40,116,789,58,219,"8,118",0,6,1168.25
+56,School 56,360,Buddy 4,Adoption,Yes,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,1,26,60,621,74,196,"4,343",3,89,676.5
+57,School 57,360,Buddy 10,Onboarding,No,PO Received,Received,Not at risk,Not as risk,74,4. Training,474,25,19,38,74,78,0,0,0,29.25
+58,School 58,360,Buddy 5,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,218,10,30,193,51,11,764,96,99,156.75
+59,School 59,360,Buddy 5,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,73,184,35,247,391,"1,077",124,54,100,276.5
+60,School 60,Pro,Buddy 2,Adoption,No,PO Received,Received,Not at risk,Not as risk,,8. Exit survey ,80,45,31,0,172,76,0,0,0,40.5
+61,School 61,360,Buddy 10,Onboarding,Yes,O/F out for sign,Received,Not at risk,Not as risk,,3. Account creation,164,30,45,505,2,0,1,0,0,72.875
+62,School 62,360,Buddy 6,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,60,61,193,"1,442",50,"5,445","24,895","1,067",89,4155.25
+63,School 63,Pro,Buddy 8,Onboarding,No,O/F signed,Payment Pending,Not at risk,Not as risk,,3. Account creation,30,13,21,13,32,1,0,0,0,10
+64,School 64,360,Buddy 5,Adoption,No,O/F signed,Received,Not at risk,Not as risk,1,8. Exit survey ,39,9,18,52,172,159,157,260,96,115.375
+65,School 65,360,Buddy 2,Onboarding,No,O/F signed,Received,Not at risk,Not as risk,,6. Go-live readiness,173,37,24,31,227,497,12,5,100,116.625
+66,School 66,360,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,8,8,29,108,56,59,999,197,98,194.25
+67,School 67,360,Buddy 2,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,149,92,409,196,88,"2,715",484,99,529
+68,School 68,360,Buddy 6,Adoption,No,O/F signed,Received,At Risk,Low,106,8. Exit survey ,104,160,35,180,391,471,0,0,41,159.75
+69,School 69,360,Buddy 7,Adoption,Yes,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,36,8. Exit survey ,358,276,110,431,468,"3,370","3,104",245,99,1012.875
+70,School 70,360,Buddy 1,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,3. Account creation,86,0,0,0,0,0,0,0,0,0
+71,School 71,360,Buddy 2,Onboarding,Yes,O/F signed,Payment Pending,Not at risk,Not as risk,,1. Introduction,10,0,0,0,0,0,0,0,0,0
+72,School 72,360,Buddy 4,Adoption,Yes,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,140,25,93,316,72,720,"3,341",686,100,669.125
+73,School 73,360,Buddy 2,Adoption,No,O/F out for sign,Received,Not at risk,Not as risk,,8. Exit survey ,,85,67,460,30,10,"3,494",236,96,559.75
+74,School 74,360,Buddy 10,Adoption,No,PO Received,Received,Not at risk,Not as risk,,8. Exit survey ,81,255,62,810,327,90,80,0,93,214.625
+75,School 75,Pro,Buddy 10,Adoption,No,PO Received,Received,Not at risk,Not as risk,,8. Exit survey ,300,7,22,0,42,1,2,0,0,9.25
+76,School 76,360,Buddy 7,Onboarding,No,PO Received,Received,Not at risk,Not as risk,,6. Go-live readiness,171,36,30,93,31,82,0,0,0,34
+77,School 77,360,Buddy 5,Adoption,Yes,PO Received,Received,At Risk,High,227,8. Exit survey ,52,272,38,471,58,41,"1,464",0,4,293.5
+78,School 78,360,Buddy 8,Adoption,No,O/F signed,Invoice Due-Payment Pending,At Risk,Low,10,8. Exit survey ,87,4,5,75,10,30,6,0,1,16.375
+79,School 79,360,Buddy 2,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,104,21,48,324,30,211,"4,824",264,100,727.75
+80,School 80,Pro,Buddy 9,Adoption,Yes,Awaiting PO,Invoice Due-Payment Pending,At Risk,High,351,8. Exit survey ,131,36,17,0,7,0,0,0,0,7.5
+81,School 81,360,Buddy 9,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,278,77,30,56,253,"1,212",849,158,100,341.875
+82,School 82,360,Buddy 9,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,278,37,35,63,90,805,741,137,98,250.75
+83,School 83,360,Buddy 3,Onboarding,Yes,Awaiting PO,Received,At Risk,Low,351,4. Training,758,180,117,437,250,54,1,0,0,129.875
+84,School 84,360,Buddy 5,Adoption,No,O/F out for sign,Received,Flagged,Not as risk,,4. Training,167,129,31,118,265,857,827,426,100,344.125
+85,School 85,360,Buddy 4,Adoption,No,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,71,18,12,18,65,70,3,1,100,35.875
+86,School 86,Pro,Buddy 3,Onboarding,Yes,O/F signed,Received,Flagged,Not as risk,190,4. Training,572,17,22,0,46,0,0,0,0,10.625
+87,School 87,360,Buddy 6,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,80,23,23,33,89,110,9,22,100,51.125
+88,School 88,Pro,Buddy 6,Onboarding,No,O/F signed,Payment Pending,Not at risk,Not as risk,,5. Information transfer,37,13,14,0,25,5,15,0,0,9
+89,School 89,360,Buddy 9,Adoption,No,Awaiting PO,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,0,121,21,337,137,108,5,0,0,91.125
+90,School 90,360,Buddy 8,Adoption,No,O/F signed,Received,Flagged,Not as risk,7,8. Exit survey ,45,13,38,150,59,448,"3,983",459,95,655.625
+91,School 91,Pro,Buddy 6,Adoption,No,Awaiting PO,Received,At Risk,Low,180,8. Exit survey ,1,8,9,0,40,69,0,0,0,15.75
+92,School 92,360,Buddy 1,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,78,92,76,227,137,107,"2,076",183,70,371
+93,School 93,360,Buddy 7,Onboarding,No,O/F signed,Received,Flagged,Not as risk,,6. Go-live readiness,125,302,115,720,717,"3,416","10,335",888,100,2074.125
+94,School 94,Pro,Buddy 10,Adoption,No,PO Received,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,180,65,35,0,242,117,24,0,0,60.375
+95,School 95,360,Buddy 8,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,23,68,414,75,134,88,2,0,100.5
+96,School 96,360,Buddy 7,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,1. Introduction,9,0,0,0,0,0,0,0,0,0
+97,School 97,360,Buddy 2,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,3. Account creation,11,1,2,0,1,0,0,0,0,0.5
+98,School 98,360,Buddy 1,Adoption,No,O/F out for sign,Received,Not at risk,Not as risk,,4. Training,244,68,80,228,140,645,"5,312",178,96,843.375
+99,School 99,360,Buddy 4,Adoption,Yes,O/F signed,Received,At Risk,High,350,8. Exit survey ,320,403,157,887,129,131,0,0,100,225.875
+100,School 100,360,Buddy 3,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,23,8. Exit survey ,223,13,24,250,21,2,757,0,0,133.375
+101,School 101,360,Buddy 9,Onboarding,No,Awaiting PO,Billing Pending,Not at risk,Not as risk,,4. Training,18,34,26,27,6,7,0,0,0,12.5
+102,School 102,Pro,Buddy 8,Adoption,Yes,O/F signed,Received,At Risk,Low,310,8. Exit survey ,182,21,13,0,14,21,0,2,0,8.875
+103,School 103,360,Buddy 2,Onboarding,No,O/F signed,Received,At Risk,Medium,23,6. Go-live readiness,132,1,2,8,1,1,1,0,0,1.75
+104,School 104,360,Buddy 1,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,25,97,37,84,270,"1,278","1,103",126,96,386.375
+105,School 105,360,Buddy 1,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,25,44,51,169,75,220,"2,428",147,99,404.125
+106,School 106,Pro,Buddy 7,Adoption,Yes,O/F signed,Received,Flagged,Not as risk,88,8. Exit survey ,1,6,36,0,23,1,14,0,0,10
+107,School 107,360,Buddy 6,Onboarding,No,PO Received,Received,Not at risk,Not as risk,,4. Training,133,124,107,3,349,"2,567",0,0,0,393.75
+108,School 108,360,Buddy 3,Onboarding,Yes,PO Received,Received,At Risk,Medium,351,4. Training,544,24,0,0,36,0,0,0,0,7.5
+109,School 109,360,Buddy 7,Adoption,Yes,PO Received,Received,At Risk,High,330,8. Exit survey ,6,89,60,0,0,0,0,0,0,18.625
+110,School 110,Pro,Buddy 10,Adoption,Yes,Awaiting PO,Received,At Risk,Low,296,8. Exit survey ,114,40,49,0,42,4,0,1,0,17
+111,School 111,360,Buddy 6,Onboarding,Yes,O/F out for sign,Received,At Risk,High,277,4. Training,624,138,40,237,154,2,0,0,63,79.25
+112,School 112,360,Buddy 1,Onboarding,No,O/F out for sign,Billing Pending,Not at risk,Not as risk,,2. Kick off,13,0,0,0,0,0,0,0,0,0
+113,School 113,Pro,Buddy 10,Adoption,No,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,8. Exit survey ,101,26,34,0,139,0,0,0,0,24.875
+114,School 114,360,Buddy 4,Adoption,Yes,PO Received,Received,At Risk,High,138,8. Exit survey ,79,41,40,0,50,0,0,0,0,16.375
+115,School 115,Pro,Buddy 4,Adoption,Yes,PO Received,Payment Pending,Flagged,Not as risk,64,8. Exit survey ,335,26,38,0,39,7,2,0,0,14
+116,School 116,360,Buddy 6,Adoption,No,O/F out for sign,Received,Not at risk,Not as risk,,8. Exit survey ,441,70,26,96,161,621,54,48,43,139.875
+117,School 117,360,Buddy 6,Onboarding,No,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,4. Training,94,109,32,123,175,183,17,11,0,81.25
+118,School 118,360,Buddy 10,Onboarding,Yes,O/F signed,Received,Not at risk,Not as risk,,4. Training,97,23,13,3,8,1,0,40,0,11
+119,School 119,360,Buddy 9,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,202,12,41,159,54,168,454,0,1,111.125
+120,School 120,360,Buddy 1,Onboarding,No,O/F signed,Received,Not at risk,Not as risk,,5. Information transfer,135,12,12,7,18,96,45,46,100,42
+121,School 121,360,Buddy 1,Onboarding,No,O/F signed,Received,Not at risk,Not as risk,,6. Go-live readiness,11,11,12,42,23,36,11,0,2,17.125
+122,School 122,360,Buddy 9,Adoption,No,O/F out for sign,Received,Not at risk,Not as risk,,8. Exit survey ,57,9,34,143,105,238,"2,445",531,100,450.625
+123,School 123,360,Buddy 4,Adoption,No,TBV,,Not at risk,Not as risk,,6. Go-live readiness,51,82,82,37,108,138,156,63,97,95.375
+124,School 124,360,Buddy 1,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,166,161,43,237,243,"2,040",37,210,100,383.875
+125,School 125,360,Buddy 6,Onboarding,No,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,4. Training,94,13,10,3,46,11,1,1,0,10.625
+126,School 126,Pro,Buddy 10,Adoption,No,O/F signed,Invoice Due-Payment Pending,Not at risk,Not as risk,,4. Training,64,31,35,0,100,10,0,0,0,22
+127,School 127,Pro,Buddy 7,Adoption,No,Awaiting PO,Received,At Risk,High,279,8. Exit survey ,108,86,26,0,0,0,0,0,0,14
+128,School 128,360,Buddy 2,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,67,5,25,71,32,507,853,1,94,198.5
+129,School 129,360,Buddy 2,Adoption,No,O/F signed,Received,At Risk,Medium,20,8. Exit survey ,122,22,74,111,62,31,418,29,1,93.5
+130,School 130,360,Buddy 9,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,14,29,164,70,687,479,0,65,188.5
+131,School 131,Pro,Buddy 8,Adoption,No,O/F out for sign,Received,Not at risk,Not as risk,,8. Exit survey ,186,9,17,0,87,696,"1,016",0,0,228.125
+132,School 132,360,Buddy 9,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,47,82,284,234,540,"9,630",150,100,1383.375
+133,School 133,360,Buddy 2,Adoption,No,O/F signed,Received,Not at risk,Not as risk,123,8. Exit survey ,102,16,21,231,166,852,83,0,1,171.25
+134,School 134,360,Buddy 9,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,72,9,24,96,86,"1,005","1,396",108,98,352.75
+135,School 135,Pro,Buddy 10,Adoption,Yes,Awaiting PO,Received,At Risk,Low,351,8. Exit survey ,1,7,27,0,44,0,0,0,0,9.75
+136,School 136,360,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,1,31,79,560,111,"1,107","16,575",667,99,2403.625
+137,School 137,360,Buddy 1,Onboarding,No,O/F out for sign,Received,Not at risk,Not as risk,,4. Training,128,10,15,101,44,150,0,0,0,40
+138,School 138,360,Buddy 7,Adoption,No,O/F signed,Received,At Risk,Medium,31,8. Exit survey ,326,0,0,0,0,0,0,0,0,0
+139,School 139,360,Buddy 8,Onboarding,Yes,O/F out for sign,Received,At Risk,Low,39,4. Training,267,59,20,17,30,4,0,0,82,26.5
+140,School 140,360,Buddy 8,Adoption,No,O/F signed,Invoice Due-Payment Pending,Flagged,Not as risk,,8. Exit survey ,76,333,66,353,"1,355","2,298","3,309",482,99,1036.875
+141,School 141,360,Buddy 1,Adoption,Yes,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,197,376,74,592,424,"1,009","1,112",863,100,568.75
+142,School 142,360,Buddy 1,Onboarding,Yes,O/F signed,Received,At Risk,High,267,4. Training,546,43,40,655,49,6,0,0,0,99.125
+143,School 143,360,Buddy 7,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,121,57,62,250,72,334,"7,684",324,100,1110.375
+144,School 144,360,Buddy 10,Adoption,No,O/F signed,Received,Not at risk,Not as risk,106,8. Exit survey ,104,9,43,92,6,8,10,22,47,29.625
+145,School 145,Pro,Buddy 8,Adoption,No,O/F signed,Received,Not at risk,Not as risk,,8. Exit survey ,11,35,11,0,152,532,0,0,0,91.25
+146,School 146,Pro,Buddy 3,Adoption,No,Awaiting PO,Received,Not at risk,Not as risk,,8. Exit survey ,100,24,3,3,12,4,0,0,0,5.75
+147,School 147,360,Buddy 4,Onboarding,Yes,O/F signed,Received,At Risk,Medium,36,3. Account creation,98,13,2,4,34,0,0,0,0,6.625
+148,School 148,360,Buddy 6,Onboarding,No,PO Received,Received,At Risk,Low,86,4. Training,296,40,7,256,1,0,0,0,1,38.125
+149,School 149,360,Buddy 9,Onboarding,No,PO Received,Received,At Risk,Low,192,4. Training,222,34,51,460,51,19,168,117,54,119.25
+150,School 150,360,Buddy 6,Onboarding,No,PO Received,Received,At Risk,Low,76,4. Training,294,35,22,369,0,0,0,0,0,53.25
+151,School 151,360,Buddy 1,Onboarding,No,O/F signed,Received,Flagged,Not as risk,,4. Training,161,9,48,100,92,94,2,2,9,44.5
